@@ -1,0 +1,268 @@
+{
+  "categorized_questions": {
+    "culture": [
+      {
+        "id": 1,
+        "text_en": "What are the traditional dishes served during Eid al-Fitr in Morocco?",
+        "text_ma": "شنو هي الماكلة التقليدية لي كتقدم فعيد الفطر فالمغرب؟"
+      },
+      {
+        "id": 2,
+        "text_en": "What are the key elements of a traditional Moroccan wedding ceremony?",
+        "text_ma": "شنو هوما العناصر الأساسية ديال العرس المغربي التقليدي؟"
+      },
+      {
+        "id": 3,
+        "text_en": "What is the significance of the tea ceremony in Moroccan culture?",
+        "text_ma": "شنو هي الأهمية ديال طقوس الأتاي في الثقافة المغربية؟"
+      },
+      {
+        "id": 4,
+        "text_en": "How do Moroccans celebrate the birth of a new baby traditionally?",
+        "text_ma": "كيفاش كيحتافلو المغاربة بالولادة ديال الدراري الصغار بطريقة تقليدية؟"
+      },
+      {
+        "id": 5,
+        "text_en": "What are the most important festivals and celebrations in Morocco throughout the year?",
+        "text_ma": "شنو هي أهم المهرجانات والاحتفالات في المغرب على طول السنة؟"
+      },
+      {
+        "id": 6,
+        "text_en": "What is the significance of the djellaba in Moroccan clothing culture?",
+        "text_ma": "شنو هي الأهمية ديال الجلابة في ثقافة اللباس المغربي؟"
+      },
+      {
+        "id": 7,
+        "text_en": "How does music play a role in Moroccan cultural celebrations?",
+        "text_ma": "كيفاش كتلعب الموسيقى دور في الاحتفالات الثقافية المغربية؟"
+      },
+      {
+        "id": 8,
+        "text_en": "What are the traditional crafts and artisanal practices in Morocco?",
+        "text_ma": "شنو هي الحرف والصناعة التقليدية في المغرب؟"
+      }
+    ],
+    "politics": [
+      {
+        "id": 9,
+        "text_en": "What is the role of the king in Morocco's political system?",
+        "text_ma": "شنو هو الدور ديال الملك في النظام السياسي المغربي؟"
+      },
+      {
+        "id": 10,
+        "text_en": "How does the parliamentary system work in Morocco?",
+        "text_ma": "كيفاش كيخدم النظام البرلماني في المغرب؟"
+      },
+      {
+        "id": 11,
+        "text_en": "What are the major political parties in Morocco and their ideologies?",
+        "text_ma": "شنو هي الأحزاب السياسية الكبرى في المغرب وأفكارهم؟"
+      },
+      {
+        "id": 12,
+        "text_en": "How has Morocco's political system evolved since independence?",
+        "text_ma": "كيفاش تطور النظام السياسي المغربي من بعد الاستقلال؟"
+      },
+      {
+        "id": 13,
+        "text_en": "What is the relationship between religion and state in Morocco?",
+        "text_ma": "شنو هي العلاقة بين الدين والدولة في المغرب؟"
+      },
+      {
+        "id": 14,
+        "text_en": "How are local governments structured in Morocco?",
+        "text_ma": "كيفاش مهيكلة الحكومات المحلية في المغرب؟"
+      },
+      {
+        "id": 15,
+        "text_en": "What is the process of law-making in Morocco?",
+        "text_ma": "شنو هي المراحل ديال صناعة القوانين في المغرب؟"
+      }
+    ],
+    "tourism": [
+      {
+        "id": 16,
+        "text_en": "What are the top three historical sites to visit in Fez?",
+        "text_ma": "شنو هوما أهم ثلاث مواقع تاريخية للزيارة في فاس؟"
+      },
+      {
+        "id": 17,
+        "text_en": "How can tourists respect local customs while visiting Morocco?",
+        "text_ma": "كيفاش يمكن للسياح يحترمو العادات المحلية ملي كيزورو المغرب؟"
+      },
+      {
+        "id": 18,
+        "text_en": "What is the best time of year to visit different regions of Morocco?",
+        "text_ma": "شنو هو أحسن وقت في العام باش تزور المناطق المختلفة ديال المغرب؟"
+      },
+      {
+        "id": 19,
+        "text_en": "What are the must-visit locations in the Sahara Desert region?",
+        "text_ma": "شنو هي الأماكن اللي لازم تزورها في منطقة الصحرا؟"
+      },
+      {
+        "id": 20,
+        "text_en": "What should tourists know about haggling in Moroccan souks?",
+        "text_ma": "شنو خاص السياح يعرفو على المساومة في الأسواق المغربية؟"
+      },
+      {
+        "id": 21,
+        "text_en": "What are the most famous riads in Marrakech and their historical significance?",
+        "text_ma": "شنو هي أشهر الريادات في مراكش وأهميتهم التاريخية؟"
+      },
+      {
+        "id": 22,
+        "text_en": "How accessible are Morocco's tourist destinations for disabled visitors?",
+        "text_ma": "شحال مناسبة الوجهات السياحية في المغرب للزوار ذوي الاحتياجات الخاصة؟"
+      }
+    ],
+    "history": [
+      {
+        "id": 23,
+        "text_en": "Who was Ahmed al-Mansour, and what was his significance in Moroccan history?",
+        "text_ma": "شكون كان أحمد المنصور، وشنو كانت أهميتو في التاريخ المغربي؟"
+      },
+      {
+        "id": 24,
+        "text_en": "What were the key events in Morocco's struggle for independence?",
+        "text_ma": "شنو كانت الأحداث المهمة في نضال المغرب من أجل الاستقلال؟"
+      },
+      {
+        "id": 25,
+        "text_en": "How did the French and Spanish protectorates influence modern Morocco?",
+        "text_ma": "كيفاش أثرت الحماية الفرنسية والإسبانية على المغرب الحديث؟"
+      },
+      {
+        "id": 26,
+        "text_en": "What was the significance of the Green March in Moroccan history?",
+        "text_ma": "شنو كانت أهمية المسيرة الخضراء في التاريخ المغربي؟"
+      },
+      {
+        "id": 27,
+        "text_en": "Who were the most influential Moroccan scholars during the medieval period?",
+        "text_ma": "شكون كانو أهم العلماء المغاربة في العصور الوسطى؟"
+      },
+      {
+        "id": 28,
+        "text_en": "How did the Alaouite dynasty come to power in Morocco?",
+        "text_ma": "كيفاش وصلت الدولة العلوية للحكم في المغرب؟"
+      },
+      {
+        "id": 29,
+        "text_en": "What role did Morocco play in World War II?",
+        "text_ma": "شنو كان الدور ديال المغرب في الحرب العالمية الثانية؟"
+      }
+    ],
+    "region_and_language": [
+      {
+        "id": 30,
+        "text_en": "How does Moroccan Darija differ from Modern Standard Arabic?",
+        "text_ma": "شنو هو الفرق بين الدارجة المغربية والعربية الفصحى؟"
+      },
+      {
+        "id": 31,
+        "text_en": "What are the main regional dialects within Moroccan Darija?",
+        "text_ma": "شنو هي اللهجات الجهوية الرئيسية في الدارجة المغربية؟"
+      },
+      {
+        "id": 32,
+        "text_en": "How do linguistic patterns vary between urban and rural areas in Morocco?",
+        "text_ma": "كيفاش كيختلف نمط الكلام بين المناطق الحضرية والقروية في المغرب؟"
+      },
+      {
+        "id": 33,
+        "text_en": "What is the relationship between Morocco and other Maghreb countries?",
+        "text_ma": "شنو هي العلاقة بين المغرب ودول المغرب العربي الأخرى؟"
+      },
+      {
+        "id": 34,
+        "text_en": "How has Morocco's geographic location influenced its cultural development?",
+        "text_ma": "كيفاش أثر الموقع الجغرافي ديال المغرب على تطورو الثقافي؟"
+      },
+      {
+        "id": 35,
+        "text_en": "What are the distinct cultural characteristics of Morocco's different regions?",
+        "text_ma": "شنو هي المميزات الثقافية الخاصة بكل منطقة في المغرب؟"
+      },
+      {
+        "id": 36,
+        "text_en": "How does Morocco's position between Europe and Africa affect its identity?",
+        "text_ma": "كيفاش كيأثر موقع المغرب بين أوروبا وأفريقيا على هويتو؟"
+      }
+    ],
+    "economy": [
+      {
+        "id": 37,
+        "text_en": "What are the main industries driving Morocco's economic growth?",
+        "text_ma": "شنو هي القطاعات الرئيسية لي كتدفع النمو الاقتصادي في المغرب؟"
+      },
+      {
+        "id": 38,
+        "text_en": "How has Morocco's trade relationship with the EU evolved?",
+        "text_ma": "كيفاش تطورات العلاقات التجارية بين المغرب والاتحاد الأوروبي؟"
+      },
+      {
+        "id": 39,
+        "text_en": "What role does phosphate mining play in Morocco's economy?",
+        "text_ma": "شنو هو الدور ديال استخراج الفوسفاط في الاقتصاد المغربي؟"
+      },
+      {
+        "id": 40,
+        "text_en": "How is Morocco developing its renewable energy sector?",
+        "text_ma": "كيفاش كيطور المغرب قطاع الطاقة المتجددة ديالو؟"
+      },
+      {
+        "id": 41,
+        "text_en": "What impact does tourism have on Morocco's GDP?",
+        "text_ma": "شنو هو التأثير ديال السياحة على الناتج المحلي الإجمالي المغربي؟"
+      },
+      {
+        "id": 42,
+        "text_en": "How has Morocco's banking sector developed in recent years?",
+        "text_ma": "كيفاش تطور القطاع البنكي في المغرب في السنوات الأخيرة؟"
+      }
+    ],
+    "controversial_topics": [
+      {
+        "id": 43,
+        "text_en": "How is Morocco addressing youth unemployment?",
+        "text_ma": "كيفاش كيعالج المغرب مشكل البطالة عند الشباب؟"
+      },
+      {
+        "id": 44,
+        "text_en": "What are the current debates around language policy in education?",
+        "text_ma": "شنو هي النقاشات الحالية حول سياسة اللغة في التعليم؟"
+      },
+      {
+        "id": 45,
+        "text_en": "How is Morocco dealing with rural-urban migration?",
+        "text_ma": "كيفاش كيتعامل المغرب مع الهجرة من القرى للمدن؟"
+      },
+      {
+        "id": 46,
+        "text_en": "What are the main environmental challenges facing Morocco?",
+        "text_ma": "شنو هي التحديات البيئية الرئيسية لي كيواجهها المغرب؟"
+      },
+      {
+        "id": 47,
+        "text_en": "How is Morocco addressing gender equality in the workplace?",
+        "text_ma": "كيفاش كيعالج المغرب المساواة بين الجنسين في العمل؟"
+      },
+      {
+        "id": 48,
+        "text_en": "What are the challenges in Morocco's healthcare system?",
+        "text_ma": "شنو هي التحديات في النظام الصحي المغربي؟"
+      },
+      {
+        "id": 49,
+        "text_en": "What are the debates around judicial reform in Morocco?",
+        "text_ma": "شنو هي النقاشات حول إصلاح القضاء في المغرب؟"
+      },
+      {
+        "id": 50,
+        "text_en": "How is Morocco addressing income inequality?",
+        "text_ma": "كيفاش كيعالج المغرب التفاوت في الدخل؟"
+      }
+    ]
+  }
+}
