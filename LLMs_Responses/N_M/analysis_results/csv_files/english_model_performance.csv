@@ -1,0 +1,8 @@
+Model,English Overall Score,EN_Cross-Model Agreement,EN_Set Coverage,EN_Response Accuracy Rate,EN_Accuracy_Scale,EN_Cultural_Sensitivity,EN_Language_Quality,EN_Contextual_Relevance
+aya,23.71,44.24,9.76,97.16,4.98,3.18,3.88,2.78
+deepseek-r1,22.57,36.1,8.72,98.34,4.98,3.08,3.94,2.84
+falcon3,24.45,45.32,12.24,98.52,5.0,3.18,3.98,2.9
+gemma,23.8,41.22,12.06,98.62,5.0,3.24,3.54,2.9
+llama3.2,24.76,46.38,13.08,98.88,5.0,3.18,3.96,2.86
+phi,21.31,35.54,7.14,92.16,4.72,3.06,3.84,2.68
+qwen,21.63,36.16,4.64,96.26,5.0,3.06,3.72,2.56

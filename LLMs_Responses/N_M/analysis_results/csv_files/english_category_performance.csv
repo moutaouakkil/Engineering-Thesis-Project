@@ -1,0 +1,8 @@
+Category,EN_Cross-Model Agreement,EN_Set Coverage,EN_Response Accuracy Rate,EN_Accuracy_Scale,EN_Cultural_Sensitivity,EN_Language_Quality,EN_Contextual_Relevance
+controversial_topics,38.29,3.57,95.07,4.93,3.09,3.82,2.46
+culture,41.54,9.55,97.61,4.95,3.18,3.82,2.84
+economy,42.52,13.86,99.86,5.0,3.02,3.83,3.02
+history,36.96,7.59,96.22,4.88,3.0,3.88,2.84
+politics,45.16,12.45,99.69,5.0,3.06,3.86,3.0
+region_and_language,42.73,14.88,97.31,5.0,3.47,3.86,2.78
+tourism,38.24,7.22,94.8,4.94,3.14,3.8,2.65

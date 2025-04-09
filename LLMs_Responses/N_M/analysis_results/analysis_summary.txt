@@ -1,0 +1,44 @@
+Analysis Summary Report
+=====================
+
+1. English Language Performance
+--------------------------
+             English Overall Score  EN_Cross-Model Agreement  ...  EN_Language_Quality  EN_Contextual_Relevance
+Model                                                         ...                                              
+aya                          23.71                     44.24  ...                 3.88                     2.78
+deepseek-r1                  22.57                     36.10  ...                 3.94                     2.84
+falcon3                      24.45                     45.32  ...                 3.98                     2.90
+gemma                        23.80                     41.22  ...                 3.54                     2.90
+llama3.2                     24.76                     46.38  ...                 3.96                     2.86
+phi                          21.31                     35.54  ...                 3.84                     2.68
+qwen                         21.63                     36.16  ...                 3.72                     2.56
+
+[7 rows x 8 columns]
+
+2. Arabic Language Performance
+-------------------------
+             Arabic Overall Score  AR_Cross-Model Agreement  ...  AR_Language_Quality  AR_Contextual_Relevance
+Model                                                        ...                                              
+aya                         14.00                      9.68  ...                 3.68                     1.94
+deepseek-r1                  7.20                      2.44  ...                 3.88                     1.38
+falcon3                     12.25                      7.26  ...                 3.58                     1.76
+gemma                       14.41                     10.78  ...                 3.32                     1.92
+llama3.2                    15.19                     10.90  ...                 3.84                     1.94
+phi                          0.67                    -11.40  ...                 3.06                     1.06
+qwen                        10.00                      5.96  ...                 3.26                     1.50
+
+[7 rows x 8 columns]
+
+3. Language Disparity Statistics
+----------------------------
+Mean Disparity       94.07
+Median Disparity    100.00
+Max Disparity       100.00
+Min Disparity         0.00
+Std Disparity        15.88
+dtype: float64
+
+4. Best Performing Models
+---------------------
+Best English Model: llama3.2 (Score: 24.76)
+Best Arabic Model: llama3.2 (Score: 15.19)
