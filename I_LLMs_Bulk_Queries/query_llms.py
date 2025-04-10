@@ -1,6 +1,7 @@
 import ollama
 import csv
 import json
+import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Dict, List, Optional
 import logging
@@ -191,7 +192,13 @@ if __name__ == "__main__":
         logging.info("Starting LLM query process...")
         questions = load_questions('questions.json')
         logging.info(f"Loaded {len(questions)} questions across {len(set(q['category'] for q in questions))} categories")
-        process_batch(questions, models, 'llm_responses.csv')
+        
+        # Create LLMs_Responses directory if it doesn't exist
+        output_dir = 'LLMs_Responses'
+        os.makedirs(output_dir, exist_ok=True)
+        output_file = os.path.join(output_dir, 'llm_responses.csv')
+        
+        process_batch(questions, models, output_file)
         logging.info("Query process completed!")
     except KeyboardInterrupt:
         logging.info("Process interrupted by user")

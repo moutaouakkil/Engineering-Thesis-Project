@@ -136,7 +136,8 @@ def analyze_responses(df):
     return df
 
 # Usage
-df = pd.read_csv('llm_responses.csv')
+responses_path = os.path.join('..', 'LLMs_Responses', 'llm_responses.csv')
+df = pd.read_csv(responses_path)
 processed_df = analyze_responses(df)
 
 # Reorder columns to group English and Arabic metrics
