@@ -193,8 +193,8 @@ if __name__ == "__main__":
         questions = load_questions('questions.json')
         logging.info(f"Loaded {len(questions)} questions across {len(set(q['category'] for q in questions))} categories")
         
-        # Create LLMs_Responses directory if it doesn't exist
-        output_dir = 'LLMs_Responses'
+        # Create 2_LLMs_Responses directory if it doesn't exist
+        output_dir = '2_LLMs_Responses'
         os.makedirs(output_dir, exist_ok=True)
         output_file = os.path.join(output_dir, 'llm_responses.csv')
         
